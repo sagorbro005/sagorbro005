@@ -2,7 +2,7 @@
 
 <h3 align="center">"Talk is cheap. Show me the code"</h3>
 <h4 align="center">- Linus Torvalds -</h4>
-
+<h4 align="center"> I am a student. Currently, I am majoring in Computer Science at Brac University. I am passionate about Innovation and Technology. ML/AI/Cybersecurity Enthusiast</h4>
 <br>
 
 <div align="center" style="margin-bottom:200px">
@@ -24,7 +24,7 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://developer.mozilla.org/en-US/docs/Web/C)
 
 
-#### Studying in this moment:
+#### Studying at this moment:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=aws"/>](https://aws.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tensorflow"/>](https://www.tensorflow.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=azure"/>](https://www.azure.com/)
@@ -44,7 +44,7 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="BRACU" src="https://assets.change.org/photos/6/rm/vb/TfrmvByQNUFQPhM-800x450-noPad.jpg?1689093999"/>](https://www.uninter.com/)
+[<img align="left" height="94px" width="94px" alt="BRACU" src="https://www.bracu.ac.bd/sites/default/files/resources/media/bracu_logo.png/>](https://www.uninter.com/)
 **Computer Science Undergraduate** \
 [**BRAC University**](https://www.bracu.ac.bd/)  • In progress\
 Skills: `Problem Solving` `Python` `Data Structure` `Algorithms`
@@ -62,5 +62,5 @@ Skills: `Problem Solving` `Python` `Data Structure` `Algorithms`
 
 
 ------
-Credit: [sagorbro005](https://github.com/sagorbro005)
+Credit: [sagorbro005](https://github.com/sagorbro005) <br>
 Last Edited on: 21/01/2024
