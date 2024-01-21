@@ -25,9 +25,9 @@
 
 
 #### Studying in this moment:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=aws"/>](https://aws.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tensorflow"/>](https://www.tensorflow.org/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=azure"/>](https://www.azure.com/)
 
 #### Tools:
 
@@ -37,14 +37,15 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=anaconda"/>](https://anaconda.com/)
+  
 <br>
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQG5HFi6nWrpQg/company-logo_200_200/0/1655119369480/grupo_uninter_logo?e=1709164800&v=beta&t=A_gJyj3OZmT1JZNQcxaIJY67jzxMEJMvcpxyq1CwmS0"/>](https://www.uninter.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.bracu.ac.bd/sites/default/files/resources/media/bracu_logo.png"/>](https://www.uninter.com/)
 **Computer Science Undergraduate** \
-[**UNINTER**](https://www.uninter.com/)  • In progress\
+[**BRAC University**](https://www.bracu.ac.bd/)  • In progress\
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
