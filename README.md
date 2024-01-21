@@ -5,7 +5,7 @@
 <h4 align="center"> I am a student. Currently, I am majoring in Computer Science at Brac University. I am passionate about Innovation and Technology.</h4>
 <h3 align="center">ML/AI/Cybersecurity Enthusiast</h3>
 
-<a href="https://https://dev.to/sagorbro005/" target="_blank"><h3>Check My Blogs</h3></a>
+<a href="https://www.dev.to/sagorbro005/" target="_blank">Check My Blogs</a>
 
 <br>
 <div align="center" style="margin-bottom:200px">
@@ -25,7 +25,6 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://developer.mozilla.org/en-US/docs/Web/Python)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://developer.mozilla.org/en-US/docs/Web/C)
-
 
 #### Studying at this moment:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=aws"/>](https://aws.com/)
