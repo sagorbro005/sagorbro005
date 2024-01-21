@@ -5,7 +5,7 @@
 <h4 align="center"> I am a student. Currently, I am majoring in Computer Science at Brac University. I am passionate about Innovation and Technology.</h4>
 <h3 align="center">ML/AI/Cybersecurity Enthusiast</h3>
 
-<h3 align="center"><a href="https://www.dev.to/sagorbro005/" target="_blank">Check My Blogs</a></h3>
+<h2 align="center"><a href="https://www.dev.to/sagorbro005/" target="_blank">Check My Blogs</a></h2>
 
 <br>
 <div align="center" style="margin-bottom:200px">
