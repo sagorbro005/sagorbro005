@@ -2,7 +2,9 @@
 
 <h3 align="center">"Talk is cheap. Show me the code"</h3>
 <h4 align="center">- Linus Torvalds -</h4>
-<h4 align="center"> I am a student. Currently, I am majoring in Computer Science at Brac University. I am passionate about Innovation and Technology.<br> ML/AI/Cybersecurity Enthusiast.</h4>
+<h4 align="center"> I am a student. Currently, I am majoring in Computer Science at Brac University. I am passionate about Innovation and Technology.</h4>
+<br>
+<h3>ML/AI/Cybersecurity Enthusiast</h3>
 <br>
 
 <div align="center" style="margin-bottom:200px">
