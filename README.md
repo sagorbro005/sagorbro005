@@ -44,7 +44,7 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="BRACU" src="https://www.bracu.ac.bd/sites/default/files/resources/media/bracu_logo.png/>](https://www.uninter.com/)
+[<img align="left" height="94px" width="94px" alt="BRACU" src="https://www.bracu.ac.bd/sites/default/files/resources/media/bracu_logo.png/">](https://www.uninter.com/)
 **Computer Science Undergraduate** \
 [**BRAC University**](https://www.bracu.ac.bd/)  • In progress\
 Skills: `Problem Solving` `Python` `Data Structure` `Algorithms`
