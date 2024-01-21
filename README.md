@@ -4,8 +4,7 @@
 <h4 align="center">- Linus Torvalds -</h4>
 <h4 align="center"> I am a student. Currently, I am majoring in Computer Science at Brac University. I am passionate about Innovation and Technology.</h4>
 <h3 align="center">ML/AI/Cybersecurity Enthusiast</h3>
-<br>
-<a href='https://dev.to/sagorbro005'><h3 align="center">Check My Blogs</h3></a>
+<button onclick="document.location='default.asp'"><h3 align="center">Check My Blogs</h3></button>
 <br>
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=sagorbro005&theme=radical&show_icons=true" />
