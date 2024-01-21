@@ -56,7 +56,7 @@ Skills: `Problem Solving` `Python` `Data Structure` `Algorithms`
 ## Contact me:
 <div>
 <a href="https://www.facebook.com/sagorbro005/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-<a href = "mailto: shahadat.hossain.sagor@g.bracu.ac.bd.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto: shahadat.hossain.sagor@g.bracu.ac.bd"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sagorbro005/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://www.twitter.com/sagorbro005/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
 </div>
