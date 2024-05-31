@@ -6,7 +6,8 @@
 <h3 align="center">ML/AI/Cybersecurity Enthusiast</h3>
 
 <h2 align="center"><a href="https://www.dev.to/sagorbro005/" target="_blank">Check My Blogs</a></h2>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sagorbro005" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/sagorbro005?trk=profile-badge">Shahadat Sagor</a></div>
+              
 <br>
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=sagorbro005&theme=radical&show_icons=true" />
